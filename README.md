@@ -35,4 +35,4 @@
 
 ---
 
-#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/taxi_counter/blob/main/p5f.ipynb'>Рекомендация тарифов для клиентов оператора мобильной связи</a>
+#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/recommendation_of_tariffs/blob/main/p5f.ipynb'>Рекомендация тарифов для клиентов оператора мобильной связи</a>
